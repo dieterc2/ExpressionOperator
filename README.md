@@ -1,4 +1,5 @@
-# ExpressionOperator
+# ExpressionOperator 
+Creator: Chris Dieter
 A simple C++ program that creates a random binary expression tree. For example, an expression written on a
 piece of paper might look like ((x * 8) + (9 - 8)). This program creates a binary tree where the middle most
 node is an operator (the + operator), and then each subsequent operator in each set of parentheses acts as child 
